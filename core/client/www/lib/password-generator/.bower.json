@@ -1,0 +1,12 @@
+{
+  "name": "password-generator",
+  "homepage": "https://github.com/bermi/password-generator",
+  "_release": "49accd739f",
+  "_resolution": {
+    "type": "commit",
+    "commit": "49accd739f60dfd0770d4af231f38311f482e308"
+  },
+  "_source": "git://github.com/bermi/password-generator.git",
+  "_target": "49accd739f60dfd0770d4af231f38311f482e308",
+  "_originalSource": "git://github.com/bermi/password-generator"
+}
